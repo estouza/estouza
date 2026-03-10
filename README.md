@@ -41,6 +41,5 @@ I have experience with programming logic, C#, version control and agile methodol
 - Let's connect! [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/estouzas/)
 - Mentor me: If by any chance you have a heart of gold who tries to help juniors in development, then please, leave a message [here :)](mailto:estousilva@gmail.com?subject=Contact%20from%20GitHub)
 
-📊 **GitHub Activity**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=estouza&theme=tokyo-night)
+🐍 **Contribution Snake**
+![snake](https://github.com/estouza/estouza/blob/output/github-contribution-grid-snake.svg)
